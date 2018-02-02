@@ -1,0 +1,4 @@
+ unicode S 01010011
+ unicode R 01010010
+ equals 10101101
+ results '7E
